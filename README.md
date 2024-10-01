@@ -63,6 +63,9 @@ The extended dataset of the WMT22 Metrics Shared Task with the identification of
 ```
 ## Citation
 Please cite the following paper if it is helpful to your work :)!
+```
+coming soon
+```
 
 ## References
 Markus Freitag, Ricardo Rei, Nitika Mathur, Chikiu Lo, Craig Stewart, Eleftherios Avramidis, Tom Kocmi, George Foster, Alon Lavie, and André F. T. Martins. 2022. [Results of WMT22 metrics shared task: Stop using BLEU - neural metrics are better and more robust](https://aclanthology.org/2022.wmt-1.2). In Proceedings of the Seventh Conference on Machine Translation (WMT), pages 46–68, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.  

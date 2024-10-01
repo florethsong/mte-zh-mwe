@@ -13,5 +13,5 @@
  See the License for the specific language governing permissions and
  limitations under the License.-->
 ---
-This is an extended dataset of the WMT22 Metrics Shared Task with the identification of translation errors (based on multidimensional quality metrics) directly related to Chinese Multiword Expressions (MWEs). The annotations of MWEs are provided by: https://github.com/florethsong/mtme-zh-mwe.
+The extended dataset of the WMT22 Metrics Shared Task with the identification of translation errors (based on multidimensional quality metrics) directly related to Chinese Multiword Expressions (MWEs). The annotations of MWEs are provided by: https://github.com/florethsong/mtme-zh-mwe.
 ---

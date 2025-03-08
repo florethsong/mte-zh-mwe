@@ -13,7 +13,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.-->
 ---
-The extended dataset of the WMT22 Metrics Shared Task with the identification of translation errors (based on multidimensional quality metrics) directly related to Chinese Multiword Expressions (MWEs). The annotations of MWEs are provided by: https://github.com/florethsong/mtme-zh-mwe.
+The extended dataset of the WMT22 Metrics Shared Task with the identification of translation errors (based on multidimensional quality metrics) is directly related to Chinese Multiword Expressions (MWEs). The annotations of MWEs are provided by: https://github.com/florethsong/mtme-zh-mwe.
 ---
 
 ### :card_index_dividers: Description of file structure
@@ -64,6 +64,7 @@ The extended dataset of the WMT22 Metrics Shared Task with the identification of
 ## Citation
 Please cite the following paper if it is helpful to your work :)!
 
+Huacheng Song and Hongzhi Xu. 2024. [A Deep Analysis of the Impact of Multiword Expressions and Named Entities on Chinese-English Machine Translations](https://aclanthology.org/2024.findings-emnlp.357/). In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 6154–6165, Miami, Florida, USA. Association for Computational Linguistics.
 
 
 ## References
